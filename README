@@ -1,0 +1,4 @@
+PHP SUDOKU SOLVER
+=================
+
+The vast majority of 'solve.php' is code I found online somewhere. 'index.php' is a frontend for the solver.
