@@ -9,9 +9,6 @@
 
 <p>
 
-<!-- With Love-Sudoku.com you can solve your Sudoku puzzles and get 
-solutions, check Sudoku answers, and even create your own Sudoku puzzles 
-to download, print, and enjoy! -->
 <p>
 Enter the numbers you already have on your Sudoku grid, and then press 
 <b>Solve my Sudoku!</b>.
